@@ -38,7 +38,8 @@ B.Tech in Computer Science & Engineering (AI & ML)
 
 ## 🚀 Projects
 
-### 📊 Customer Behavior Analysis Dashboard  
+### 📊 Customer Behavior Analysis Dashboard
+🔗 [Live Link](https://github.com/Engineer-Sumit/Customer_Behavior_Dashboard)
 🛠 Python, Pandas, NumPy, SQL, Power BI  
 
 - Analyzed **3,900+ customer transactions**  
@@ -48,7 +49,8 @@ B.Tech in Computer Science & Engineering (AI & ML)
 
 ---
 
-### 🤖 SQL Query Database Agent  
+### 🤖 SQL Query Database Agent
+🔗 [Live Link](https://sql-query-database-ai-agent.onrender.com/) 
 🛠 Python, OpenAI API, SQL  
 
 - Converted natural language into SQL queries  
