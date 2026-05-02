@@ -52,29 +52,20 @@ B.Tech in Computer Science & Engineering (AI & ML)
 
 ---
 
-## 🛠️ Technical Skillset
+## ⚙️ Technical Skills
 
-### 📊 Data Analytics & Visualization
-<p>
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-Basic-E97627?style=flat&logo=tableau&logoColor=white">
-</p>
-
-### 💻 Programming & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat">
-  <img src="https://img.shields.io/badge/NumPy-Numerical-013243?style=flat">
-</p>
-
-### ☁️ Cloud & Tools
-<p>
-  <img src="https://img.shields.io/badge/AWS-Lambda%20%7C%20S3%20%7C%20DynamoDB-FF9900?style=flat&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat&logo=github">
-</p>
+| Category | Tools & Technologies |
+|----------|---------------------|
+| **Languages** | Python, SQL |
+| **Mathematics** | Probability & Statistics |
+| **Data Analytics** | Data Cleaning, Data Transformation, EDA, Data Interpretation |
+| **Libraries** | NumPy, Pandas |
+| **Data Visualization** | Matplotlib, Seaborn, Power BI, Tableau |
+| **Excel & Reporting** | Advanced Excel, Pivot Tables, Power Query |
+| **Database** | MySQL, SQL (Joins, Subqueries, Aggregations) |
+| **Business Intelligence** | Dashboard Development, Data Storytelling |
+| **Cloud & Backend** | AWS (Lambda, S3, DynamoDB), Flask, REST APIs |
+| **Tools** | Jupyter Notebook, Google Colab, Excel, Git, GitHub, VS Code |
 
 ---
 
