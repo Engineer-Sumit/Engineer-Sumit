@@ -116,4 +116,20 @@ I enjoy solving real-world problems using data and continuously improving my ana
 
 ---
 
+## 💻 Tech Stack Badges
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+</p>
+
+---
+
 ⭐ If you like my work, consider giving a star to my repositories!
