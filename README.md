@@ -57,7 +57,6 @@ B.Tech in Computer Science & Engineering (AI & ML)
 | Category | Tools & Technologies |
 |----------|---------------------|
 | **Languages** | Python, SQL |
-| **Mathematics** | Probability & Statistics |
 | **Data Analytics** | Data Cleaning, Data Transformation, EDA, Data Interpretation |
 | **Libraries** | NumPy, Pandas |
 | **Data Visualization** | Matplotlib, Seaborn, Power BI, Tableau |
