@@ -114,7 +114,7 @@ I enjoy solving real-world problems using data and continuously improving my ana
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Engineer-Sumit">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
