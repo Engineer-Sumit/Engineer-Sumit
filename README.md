@@ -27,7 +27,8 @@ B.Tech in Computer Science & Engineering (AI & ML)
 ☁️ Industrial Trainee – Cloud Computing (AWS)  
 📍 Academy of Skill Development | Remote  
 📅 Aug – Nov 2025
-🔗 [GitHub Repository](https://github.com/Engineer-Sumit/AWS-data-management) 
+
+🔗 [GitHub Link](https://github.com/Engineer-Sumit/AWS-data-management) 
 
 🛠 Tech Stack: AWS Lambda, DynamoDB, API Gateway, S3, Python  
 
@@ -40,7 +41,7 @@ B.Tech in Computer Science & Engineering (AI & ML)
 ## 🚀 Projects
 
 ### 📊 Customer Behavior Analysis Dashboard
-🔗 [GitHub Repository](https://github.com/Engineer-Sumit/Customer_Behavior_Dashboard) 
+🔗 [GitHub Link](https://github.com/Engineer-Sumit/Customer_Behavior_Dashboard) 
 
  🧩 Tech Stack: Python, Pandas, NumPy, SQL, Power BI  
 
@@ -52,7 +53,7 @@ B.Tech in Computer Science & Engineering (AI & ML)
 ---
 
 ### 🤖 SQL Query Database Agent
-🔗 [Live Link](https://sql-query-database-ai-agent.onrender.com/) | [GitHub Repository](https://github.com/Engineer-Sumit/sql-query-database-ai_agent)
+🔗 [Live Link](https://sql-query-database-ai-agent.onrender.com/)  |  [GitHub Link](https://github.com/Engineer-Sumit/sql-query-database-ai_agent)
 
 🧩 Tech Stack: Python, OpenAI API, SQL
 
