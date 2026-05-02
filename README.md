@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="www.linkedin.com/in/sumit-chowdhuary"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/sumit-chowdhuary"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:sumitchowdhuary4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -77,4 +77,4 @@ I enjoy transforming raw data into meaningful insights that support business dec
 
 ## 📫 Connect With Me
 - 📧 sumitchowdhuary4@gmail.com  
-- 💼 www.linkedin.com/in/sumit-chowdhuary  
+- 💼 https://www.linkedin.com/in/sumit-chowdhuary  
