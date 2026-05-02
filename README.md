@@ -98,9 +98,21 @@ I enjoy solving real-world problems using data and continuously improving my ana
 
 ---
 
-## 📫 Connect With Me
-- 📧 sumitchowdhuary4@gmail.com  
-- 💼 https://www.linkedin.com/in/sumit-chowdhuary  
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:sumitchowdhuary4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/sumit-chowdhuary">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p> 
 
 ---
 
