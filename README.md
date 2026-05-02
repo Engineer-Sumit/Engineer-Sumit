@@ -75,6 +75,15 @@ B.Tech in Computer Science & Engineering (AI & ML)
 
 ---
 
+## 📚 Relevant Coursework
+
+🧩 Data Structures & Algorithms  
+🗄️ Database Management System  
+⚙️ Object-Oriented Programming  
+📊 Data Analytics & Visualization
+
+---
+
 ## 🏆 Achievements
 - GenAI Data Analytics Job Simulation – TATA  
 - Deloitte Technology Job Simulation  
